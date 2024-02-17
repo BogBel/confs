@@ -1,0 +1,16 @@
+# change window focus within space
+lcmd - j : yabai -m window --focus south
+lcmd - k : yabai -m window --focus north
+lcmd - h : yabai -m window --focus west
+lcmd - l : yabai -m window --focus east
+
+
+lcmd - s: yabai -m display --focus west
+lcmd - g: yabai -m display --focus east
+
+lcmd - m : yabai -m window --toggle zoom-fullscreen
+
+
+shift + lcmd - p : yabai -m window --space prev;
+shift + lcmd - n : yabai -m window --space next;
+
