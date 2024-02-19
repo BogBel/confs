@@ -1,0 +1,165 @@
+unmapAll
+
+
+map j scrollDown
+map о scrollDown
+
+map k scrollUp
+map л scrollUp
+
+map Д previousTab
+map L previousTab
+
+map l nextTab
+map д nextTab
+
+map q removeTab
+map й removeTab
+
+map Q restoreTab
+map Й restoreTab
+
+map : previousTab
+
+map ; nextTab
+map ж nextTab
+
+map : scrollLeft
+
+map ; scrollRight
+map ж scrollRight
+
+map b goBack
+map и goBack
+
+#map r reload
+map R reload hard
+map К reload hard
+
+map l- goToRoot
+
+
+map yy copyCurrentUrl
+map нн copyCurrentUrl
+
+map f LinkHints.activateMode
+map а LinkHints.activateMode
+
+map yf LinkHints.activateModeToCopyLinkUrl
+map на LinkHints.activateModeToCopyLinkUrl
+ 
+map F LinkHints.activateModeToOpenInNewTab
+map А LinkHints.activateModeToOpenInNewTab
+
+# navigation
+map <a-z> visitPreviousTab
+map <a-я> visitPreviousTab
+
+map Z Vomnibar.activateTabSelection
+map Я Vomnibar.activateTabSelection
+
+map D duplicateTab
+map В duplicateTab
+
+
+map x Vomnibar.activateInNewTab
+map ч Vomnibar.activateInNewTab
+map X Vomnibar.activate
+map Ч Vomnibar.activate
+
+# for bookmarks
+map B Vomnibar.activateBookmarksInNewTab
+map И Vomnibar.activateBookmarksInNewTab
+
+map o Vomnibar
+map щ Vomnibar
+
+# visual mode enter
+map v enterVisualMode
+map м enterVisualMode
+
+map zz exitVisualMode
+map яя exitVisualMode
+
+
+# search engine
+map / enterFindMode
+map . enterFindMode
+
+map <c а> enterFindMode
+map <c f> enterFindMode
+
+map n performFind
+map т performFind
+
+map Т performBackwardsFind
+map N performBackwardsFind
+
+map t createTab
+map е createTab
+
+map <c-m> toggleMuteTab
+
+map <a-p> togglePinTab
+map <a-з> togglePinTab
+
+map gg scrollToTop
+map пп scrollToTop
+
+map G scrollToBottom
+map П scrollToBottom
+
+# test
+map p- goToRoot
+
+
+# mapping UA-RU
+mapkey й q
+mapkey ц w
+mapkey у e
+mapkey к r
+mapkey е t
+mapkey н y
+mapkey г u
+mapkey ш i
+mapkey щ o
+mapkey з p
+mapkey х [
+mapkey Х {
+mapkey ъ ]
+mapkey Ъ }
+mapkey ї ]
+mapkey Ї }
+mapkey ё \
+mapkey Ё |
+mapkey ґ \
+mapkey Ґ |
+mapkey ф a
+mapkey ы s
+mapkey і s
+mapkey в d
+mapkey а f
+mapkey п g
+mapkey р h
+mapkey о j
+mapkey л k
+mapkey д l
+mapkey ж ;
+mapkey Ж :
+mapkey э '
+mapkey Э "
+mapkey є '
+mapkey Є "
+mapkey я z
+mapkey ч x
+mapkey с c
+mapkey м v
+mapkey и b
+mapkey т n
+mapkey ь m
+mapkey б ,
+mapkey Б <
+mapkey ю .
+mapkey Ю >
+mapkey . /
+mapkey , ?
